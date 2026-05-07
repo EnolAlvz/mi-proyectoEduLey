@@ -1,0 +1,182 @@
+[
+    {
+        "id": 15,
+        "titulo": "Decreto 38\/2015",
+        "fecha": "22\/05\/2015",
+        "estado": "Vigente",
+        "comunidad": "Cantabria",
+        "desc": "Establece el currículo de la Educación Secundaria Obligatoria y Bachillerato en Cantabria.",
+        "pdf_url": "DecretoGalicia.pdf"
+    },
+    {
+        "id": 14,
+        "titulo": "Ley 3\/2020",
+        "fecha": "30\/12\/2020",
+        "estado": "Vigente",
+        "comunidad": "Castilla y León",
+        "desc": "Medidas urgentes para la adaptación del sistema educativo en CyL.",
+        "pdf_url": "LeyCastillayLeon.pdf"
+    },
+    {
+        "id": 13,
+        "titulo": "Ley 4\/2018",
+        "fecha": "21\/02\/2018",
+        "estado": "Vigente",
+        "comunidad": "Comunidad Valenciana",
+        "desc": "Ley por la que se regula y promueve el plurilingüismo en el sistema educativo valenciano.",
+        "pdf_url": "Ley4-2018.pdf"
+    },
+    {
+        "id": 12,
+        "titulo": "Decreto 82\/2022",
+        "fecha": "12\/07\/2022",
+        "estado": "Vigente",
+        "comunidad": "Asturias",
+        "desc": "Regulación de la ordenación y currículo en el Principado de Asturias.",
+        "pdf_url": "Decreto57-2022.pdf"
+    },
+    {
+        "id": 11,
+        "titulo": "Nueva Ley de Educación",
+        "fecha": "21\/12\/2023",
+        "estado": "Vigente",
+        "comunidad": "País Vasco",
+        "desc": "Regula el modelo de escuela pública vasca y el euskera.",
+        "pdf_url": "NuevaLeyDeEducacion.pdf"
+    },
+    {
+        "id": 10,
+        "titulo": "Ley 4\/2011",
+        "fecha": "30\/06\/2011",
+        "estado": "Vigente",
+        "comunidad": "Galicia",
+        "desc": "Ley de Convivencia y Participación de la Comunidad Educativa en Galicia.",
+        "pdf_url": "Ley 4-2011.pdf"
+    },
+    {
+        "id": 9,
+        "titulo": "Ley 6\/2014",
+        "fecha": "25\/07\/2014",
+        "estado": "Vigente",
+        "comunidad": "Canarias",
+        "desc": "Ley Canaria de Educación no Universitaria.",
+        "pdf_url": "Ley 6-2014.pdf"
+    },
+    {
+        "id": 8,
+        "titulo": "Ley 1\/2022 Maestra",
+        "fecha": "10\/02\/2022",
+        "estado": "Vigente",
+        "comunidad": "Madrid",
+        "desc": "Ley Maestra de Libertad de Elección Educativa de la Comunidad de Madrid.",
+        "pdf_url": "Ley1-2022Maestra.pdf"
+    },
+    {
+        "id": 7,
+        "titulo": "LEC - Llei 12\/2009",
+        "fecha": "10\/07\/2009",
+        "estado": "Vigente",
+        "comunidad": "Cataluña",
+        "desc": "Llei d'Educació de Catalunya. Establece el modelo lingüístico y educativo.",
+        "pdf_url": "LEC - Llei 12-2009.pdf"
+    },
+    {
+        "id": 6,
+        "titulo": "LEA - Ley 17\/2007",
+        "fecha": "10\/12\/2007",
+        "estado": "Vigente",
+        "comunidad": "Andalucía",
+        "desc": "Ley de Educación de Andalucía. Regula el sistema educativo andaluz.",
+        "pdf_url": "LEA - Ley 17-2007.pdf"
+    },
+    {
+        "id": 5,
+        "titulo": "LOMCE - Ley Orgánica 8\/2013",
+        "fecha": "09\/12\/2013",
+        "estado": "Derogada",
+        "comunidad": "Nacional",
+        "desc": "Conocida como 'Ley Wert'. Sustituida por la LOMLOE.",
+        "pdf_url": "LOMCE - Ley Orgánica 8-2013.pdf"
+    },
+    {
+        "id": 4,
+        "titulo": "LODE - Ley Orgánica 8\/1985",
+        "fecha": "03\/07\/1985",
+        "estado": "Vigente",
+        "comunidad": "Nacional",
+        "desc": "Derecho a la Educación. Regula los colegios concertados.",
+        "pdf_url": "LODE - Ley Orgánica 8-1985.pdf"
+    },
+    {
+        "id": 3,
+        "titulo": "Ley 3\/2022 de FP",
+        "fecha": "31\/03\/2022",
+        "estado": "Vigente",
+        "comunidad": "Nacional",
+        "desc": "Ley de Ordenación e Integración de la Formación Profesional.",
+        "pdf_url": "Ley 3-2022 de FP.pdf"
+    },
+    {
+        "id": 2,
+        "titulo": "LOSU - Ley Orgánica 2\/2023",
+        "fecha": "22\/03\/2023",
+        "estado": "Vigente",
+        "comunidad": "Nacional",
+        "desc": "Ley Orgánica del Sistema Universitario Español.",
+        "pdf_url": "LOSU - Ley Orgánica 2-2023.pdf"
+    },
+    {
+        "id": 1,
+        "titulo": "LOMLOE - Ley Orgánica 3\/2020",
+        "fecha": "29\/12\/2020",
+        "estado": "Vigente",
+        "comunidad": "Nacional",
+        "desc": "Ley de Educación actual. Modifica la LOE y deroga la LOMCE.",
+        "pdf_url": "LeyOrganica1.pdf"
+    },
+    {
+        "id": 16,
+        "titulo": "LOE - Ley Orgánica 2\/2006",
+        "fecha": "03\/05\/2006",
+        "estado": "Vigente",
+        "comunidad": "Nacional",
+        "desc": "Ley Orgánica de Educación. Modificada posteriormente por la LOMLOE.",
+        "pdf_url": "BOE-A-2006-7899-consolidado.pdf"
+    },
+    {
+        "id": 17,
+        "titulo": "Real Decreto 95\/2022 (Infantil)",
+        "fecha": "01\/02\/2022",
+        "estado": "Vigente",
+        "comunidad": "Nacional",
+        "desc": "Establece la ordenación y las enseñanzas mínimas de la Educación Infantil.",
+        "pdf_url": "BOE-A-2022-1654-consolidado.pdf"
+    },
+    {
+        "id": 18,
+        "titulo": "Real Decreto 157\/2022 (Primaria)",
+        "fecha": "01\/03\/2022",
+        "estado": "Vigente",
+        "comunidad": "Nacional",
+        "desc": "Establece la ordenación y las enseñanzas mínimas de la Educación Primaria.",
+        "pdf_url": "BOE-A-2022-3296-consolidado.pdf"
+    },
+    {
+        "id": 19,
+        "titulo": "Real Decreto 217\/2022 (ESO)",
+        "fecha": "29\/03\/2022",
+        "estado": "Vigente",
+        "comunidad": "Nacional",
+        "desc": "Establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria.",
+        "pdf_url": "RealDecreto_217_2022.pdf"
+    },
+    {
+        "id": 20,
+        "titulo": "Real Decreto 243\/2022 (Bachillerato)",
+        "fecha": "05\/04\/2022",
+        "estado": "Vigente",
+        "comunidad": "Nacional",
+        "desc": "Establece la ordenación y las enseñanzas mínimas del Bachillerato.",
+        "pdf_url": "RealDecreto_243_2022.pdf"
+    }
+]
